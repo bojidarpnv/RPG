@@ -1,8 +1,8 @@
-﻿using RPG.Data;
-using RPG.Enums;
+﻿using RPG.Core.Enums;
+using RPG.Data;
+using RPG.Data.Models;
 using RPG.GameLogic;
 using RPG.Menus;
-using RPG.Models;
 
 namespace RPG
 {
