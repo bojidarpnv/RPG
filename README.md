@@ -37,8 +37,6 @@ dotnet build
 ```
 
 #### Run the Application
-Set the `RPG` project as the startup
-```sh
-dotnet run --project RPG
-```
+Set the `RPG` project as the startup and run it
+
 
