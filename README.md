@@ -38,5 +38,10 @@ dotnet build
 
 #### Run the Application
 Set the `RPG` project as the startup and run it
+or run a Terminal and write
+```sh
+cd <yourDirectory>://RPG/RPG
+dotnet run
+```
 
 
