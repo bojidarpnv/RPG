@@ -9,7 +9,7 @@ Follow these steps to set up and run the application:
 ### 1. Clone the repository
 
 ```sh
-gitclone <repourl>
+git clone https://github.com/bojidarpnv/RPG.git
 cd <your repo directory>
 ```
 
