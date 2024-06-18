@@ -1,6 +1,6 @@
 # RPG Game
 
-Welcome to the RPG Game project! This README will guide you through setting up and running the application.
+Welcome to the RPG Game project!
 
 ## Getting Started
 
